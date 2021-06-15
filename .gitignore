@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# outputs folder
+outputs/
+
+
+# releases folder
+releases/
+
+# ignore the test.js file
+test.js
