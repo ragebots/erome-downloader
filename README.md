@@ -5,15 +5,15 @@
 ```
 On __Windows__,
 ```
-EroMe-downloader-win.exe https://github.com/ragebots/erome-downloader/releases/
+EroMe-downloader-win.exe https://www.erome.com/a/pem1sRs7
 ```
 On __Linux__,
 ```
 1. chmod a+x EroMe-downloader-linux
-2. ./EroMe-downloader-linux https://github.com/ragebots/erome-downloader/releases/
+2. ./EroMe-downloader-linux https://www.erome.com/a/pem1sRs7
 ```
 On __Mac__,
 ```
 1. chmod a+x EroMe-downloader-mac
-2. ./EroMe-downloader-mac https://github.com/ragebots/erome-downloader/releases/
+2. ./EroMe-downloader-mac https://www.erome.com/a/pem1sRs7
 ```  
