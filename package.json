@@ -2,7 +2,8 @@
   "name": "EroMe-downloader",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "app.js",
+  "bin": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,5 +15,8 @@
     "command-line-usage": "^6.1.1",
     "jsdom": "^16.6.0",
     "node-fetch": "^2.6.1"
+  },
+  "pkg": {
+    "outputPath": "releases"
   }
 }
